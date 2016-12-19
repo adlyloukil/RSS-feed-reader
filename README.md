@@ -1,6 +1,6 @@
 #RSS Feed Reader Instructions
 1. Download and unzip the repository to your computer
-2. To run test open index.html to open in a browser of your choice.
+2. To run test open index.html in a browser of your choice.
 3. Then click on each individual test entry to test
 4. All tests will pass
 
